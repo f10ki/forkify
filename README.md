@@ -1,5 +1,6 @@
 # forkify
 https://f10ki-forkify.netlify.app/
+
 Deployed using netlify.com with npm and dependent packages. 
 
 Website with recipes. Have used third party API. JS study project.
